@@ -91,7 +91,7 @@ workspace_params = {
     "workspace_name": resolved_workspace_name,
     "environment": resolved_environment,
     "repository_directory": "./src",
-    "item_type_in_scope": ["SemanticModel", "Report"],
+    "item_type_in_scope": ["SemanticModel", "Report", "DataAgent"],
     "token_credential": credential,
 }
 
